@@ -1,0 +1,10 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.spec
+.DS_Store
+*.log
+.env
+.pytest_cache/
+.venv/
